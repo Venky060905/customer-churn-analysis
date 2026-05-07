@@ -14,10 +14,6 @@
 
 ![Dashboard](images/final_dashboard.png)
 
-
-![alt text](images/final_dashboard.png)
-
-
 • Month-to-month contracts show highest churn.
 
 • Fiber optic users churn more frequently.
