@@ -1,3 +1,5 @@
+![Dashboard](images/final_dashboard.png)
+
 1. Project Title
 2. Problem Statement
 3. Technologies Used
@@ -9,10 +11,6 @@
 9. Future Improvements
 10. Screenshots
 
-
-## Dashboard Preview
-
-![Dashboard](images/final_dashboard.png)
 
 • Month-to-month contracts show highest churn.
 
